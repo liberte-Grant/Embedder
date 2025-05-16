@@ -1,9 +1,9 @@
 // Lib C
 #include <assert.h>
 
-// Zephyr includes
-#include <zephyr/drivers/gpio.h>
-#include <zephyr/logging/log.h>
+// libertes includes
+#include <liberte/drivers/gpio.h>
+#include <liberte/logging/log.h>
 LOG_MODULE_REGISTER(Button);
 
 // User C++ class headers
