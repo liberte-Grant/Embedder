@@ -1,2 +1,2 @@
-# codespace
-A dockerized LG codespace based on devcontainer
+# Embedder 
+A dockerized LG Embedder  based on devcontainer
